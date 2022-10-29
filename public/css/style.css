@@ -91,6 +91,10 @@ button.btn-secondary:hover{
 	background: none;
 	color: #50a060;
 }
+div#basic-navbar-nav.navbar-collapse.collapse{
+	justify-content: end;
+}
+
 img.nav-logo {
 	width: 180px;
 	height: auto;
